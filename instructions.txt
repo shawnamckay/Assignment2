@@ -1,0 +1,27 @@
+
+
+Assignment 2 - Calculator
+-----------------------------------------
+- Tested on Chrome and Opera
+
+
+Set up and Compilation
+======================
+- Copy and paste all files in the chai 3d library in the templates folder
+- Open the application.xcodeproj in Xcode
+- Press Command + R to compile and run the application
+
+
+
+Usage
+=====
+- The program will default open on shape 1, the sphere
+- To switch from the sphere, heart, whiffle cube and torus press buttons 1, 2, 3, and 4 respectively
+- To turn on light friction press the left button on the haptic device, to turn on heavier friction press the right button and to turn off friction press the centre button. 
+- To quit the program, press escape.
+
+
+
+Gotcha's
+========
+- Limit cycle is only addressed in the frictionless case and I would consider the limit cycling reduced but not fixed completely.
